@@ -348,3 +348,9 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+/UmbracoDeployOnPremTest1/UmbracoDeployOnPremTest1/App_Data/TEMP/*
+/UmbracoDeployOnPremTest1/UmbracoDeployOnPremTest1/App_Data/cache*
+/UmbracoDeployOnPremTest1/UmbracoDeployOnPremTest1/App_Data/Models/*
+/UmbracoDeployOnPremTest1/UmbracoDeployOnPremTest1/App_Data/umbraco.licensing.log.txt*
+/UmbracoDeployOnPremTest1/UmbracoDeployOnPremTest1/Media/*

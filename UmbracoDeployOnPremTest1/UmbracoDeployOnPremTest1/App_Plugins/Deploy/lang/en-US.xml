@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<language>
+  <area alias="dashboardTabs">
+    <key alias="deploy">Your workspace</key>
+  </area>
+  <area alias="general">
+    <key alias="Deploy">Deploy</key>
+  </area>
+  <area alias="sections">
+    <key alias="deploy">Deploy</key>
+  </area>
+  <area alias="actions">
+    <key alias="deployQueueForTransfer">Queue for transfer</key>
+    <key alias="deployRestore">Full restore</key>
+    <key alias="deployPartialRestore">Partial restore</key>
+  </area>
+  <area alias="actionDescriptions">
+    <key alias="deployQueueForTransfer">Allow the user to queue item(s)</key>
+    <key alias="deployRestore">Allow the user to restore items </key>
+    <key alias="deployPartialRestore">Allow the user to partial restore items</key>
+  </area>
+</language>
