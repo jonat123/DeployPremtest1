@@ -1,0 +1,12 @@
+{
+  "EditorAlias": "Umbraco.Tags",
+  "DatabaseType": 1,
+  "Configuration": {"group":"default","storageType":0,"Delimiter":"\u0000"},
+  "Parent": null,
+  "Udi": "umb://data-type/b58c153091c94c83aa35032aca0f7b89",
+  "Dependencies": [],
+  "Name": "Person - Department - Tags",
+  "Alias": null,
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.DataTypeArtifact",
+  "__version": "4.0.0-alpha10612"
+}

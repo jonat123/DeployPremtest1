@@ -1,0 +1,12 @@
+{
+  "EditorAlias": "Umbraco.Grid",
+  "DatabaseType": 0,
+  "Configuration": {"items":{"styles":[],"config":[],"columns":12,"templates":[{"name":"1 column layout","sections":[{"grid":12}]}],"layouts":[{"name":"Full Width","areas":[{"grid":12,"allowAll":false,"allowed":["media","macro","embed","headline"]}]},{"name":"Half and half","areas":[{"grid":6,"allowAll":false,"allowed":["rte","media","macro","embed","headline","quote"]},{"grid":6,"allowAll":false,"allowed":["quote","headline","embed","macro","media","rte"]}]},{"name":"Testimonials","areas":[{"grid":4,"allowAll":false,"allowed":[]},{"grid":4,"allowAll":false,"allowed":[]},{"grid":4,"allowAll":false,"allowed":[]}]}]},"rte":{"toolbar":["code","bold","italic","styleselect","alignleft","aligncenter","alignright","bullist","numlist","outdent","indent","link","image","ace"],"stylesheets":[],"maxImageSize":500,"mode":"classic","dimensions":{"height":500}},"ignoreUserStartNodes":false,"mediaParentId":null},
+  "Parent": null,
+  "Udi": "umb://data-type/34a7f8f5a84e439b9322466ff7ed8866",
+  "Dependencies": [],
+  "Name": "Home - Content - Grid layout",
+  "Alias": null,
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.DataTypeArtifact",
+  "__version": "4.0.0-alpha10612"
+}

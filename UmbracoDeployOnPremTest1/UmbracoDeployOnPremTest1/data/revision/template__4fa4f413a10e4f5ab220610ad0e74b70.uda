@@ -1,0 +1,21 @@
+{
+  "File": "umb://template-file/contact.cshtml",
+  "Master": "umb://template/38777c4ff2514e379e2b1d4f2ff81969",
+  "Udi": "umb://template/4fa4f413a10e4f5ab220610ad0e74b70",
+  "Dependencies": [
+    {
+      "Udi": "umb://template/38777c4ff2514e379e2b1d4f2ff81969",
+      "Ordering": true,
+      "Mode": 0
+    },
+    {
+      "Udi": "umb://template-file/contact.cshtml",
+      "Ordering": true,
+      "Mode": 0
+    }
+  ],
+  "Name": "Contact",
+  "Alias": "contact",
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.TemplateArtifact",
+  "__version": "4.0.0-alpha10612"
+}

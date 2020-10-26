@@ -1,0 +1,90 @@
+{
+  "DefaultTemplate": null,
+  "AllowedTemplates": [],
+  "Icon": "icon-nodes color-black",
+  "Thumbnail": "folder.png",
+  "Description": null,
+  "IsContainer": false,
+  "Permissions": {
+    "AllowVaryingByCulture": false,
+    "AllowVaryingBySegment": false,
+    "AllowedAtRoot": false,
+    "IsElementType": false,
+    "AllowedChildContentTypes": []
+  },
+  "Parent": "umb://document-type-container/48e6010babcc46b0be9ab9ed2538cd60",
+  "CompositionContentTypes": [],
+  "PropertyGroups": [
+    {
+      "Key": "0b6a4ff0-0d29-4de7-b69a-32fd60f7f5ac",
+      "Name": "Navigation & SEO",
+      "SortOrder": 0,
+      "PropertyTypes": [
+        {
+          "Key": "001ff487-98b4-49ae-856a-719c342efbdb",
+          "Alias": "keywords",
+          "DataType": "umb://data-type/30c3522191b049a5a59942d1965161ea",
+          "Description": "Keywords that describe the content of the page. This is considered optional since most modern search engines don't use this anymore",
+          "Mandatory": false,
+          "Name": "Keywords",
+          "SortOrder": 1,
+          "Validation": null,
+          "VariesByCulture": false,
+          "VariesBySegment": false
+        },
+        {
+          "Key": "0c7eb91d-e06b-4fcb-8f54-830335cfc4e8",
+          "Alias": "umbracoNavihide",
+          "DataType": "umb://data-type/92897bc6a5f34ffeae27f2e7e33dda49",
+          "Description": "If you don't want this page to appear in the navigation, check this box",
+          "Mandatory": false,
+          "Name": "Hide in Navigation",
+          "SortOrder": 2,
+          "Validation": null,
+          "VariesByCulture": false,
+          "VariesBySegment": false
+        },
+        {
+          "Key": "0d6c3f62-9b12-4f08-b652-aea2399e978b",
+          "Alias": "seoMetaDescription",
+          "DataType": "umb://data-type/c6bac0dd4ab945b18e30e4b619ee5da3",
+          "Description": "A brief description of the content on your page. This text is shown below the title in a google search result and also used for Social Sharing Cards. The ideal length is between 130 and 155 characters",
+          "Mandatory": false,
+          "Name": "Description",
+          "SortOrder": 0,
+          "Validation": null,
+          "VariesByCulture": false,
+          "VariesBySegment": false
+        }
+      ]
+    }
+  ],
+  "PropertyTypes": [],
+  "Udi": "umb://document-type/67fc35c4df9341b6a0628f185c3afdfc",
+  "Dependencies": [
+    {
+      "Udi": "umb://data-type/30c3522191b049a5a59942d1965161ea",
+      "Ordering": true,
+      "Mode": 0
+    },
+    {
+      "Udi": "umb://data-type/92897bc6a5f34ffeae27f2e7e33dda49",
+      "Ordering": true,
+      "Mode": 0
+    },
+    {
+      "Udi": "umb://data-type/c6bac0dd4ab945b18e30e4b619ee5da3",
+      "Ordering": true,
+      "Mode": 0
+    },
+    {
+      "Udi": "umb://document-type-container/48e6010babcc46b0be9ab9ed2538cd60",
+      "Ordering": true,
+      "Mode": 0
+    }
+  ],
+  "Name": "Navigation Base",
+  "Alias": "navigationBase",
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.ContentType.DocumentTypeArtifact",
+  "__version": "4.0.0-alpha10612"
+}

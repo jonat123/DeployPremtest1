@@ -1,0 +1,78 @@
+{
+  "DefaultTemplate": "umb://template/7ebc93703a6e4526b86a53dd568a0eea",
+  "AllowedTemplates": [
+    "umb://template/7ebc93703a6e4526b86a53dd568a0eea"
+  ],
+  "Icon": "icon-user-females-alt color-black",
+  "Thumbnail": "folder.png",
+  "Description": null,
+  "IsContainer": true,
+  "Permissions": {
+    "AllowVaryingByCulture": false,
+    "AllowVaryingBySegment": false,
+    "AllowedAtRoot": false,
+    "IsElementType": false,
+    "AllowedChildContentTypes": [
+      "umb://document-type/73176b2ac8c4481093960ee6450372d1"
+    ]
+  },
+  "Parent": null,
+  "CompositionContentTypes": [
+    "umb://document-type/67fc35c4df9341b6a0628f185c3afdfc",
+    "umb://document-type/f534e235d215497496db21eedb1f47e3"
+  ],
+  "PropertyGroups": [
+    {
+      "Key": "d88c09c9-27e9-41bd-ae3c-865880efadd6",
+      "Name": "Content",
+      "SortOrder": 0,
+      "PropertyTypes": [
+        {
+          "Key": "b8f4aafc-613c-4b7c-9dfb-c59661d91b76",
+          "Alias": "featuredPeople",
+          "DataType": "umb://data-type/4885450ea60f42bb984a43988baf5283",
+          "Description": null,
+          "Mandatory": false,
+          "Name": "Featured People",
+          "SortOrder": 2,
+          "Validation": null,
+          "VariesByCulture": false,
+          "VariesBySegment": false
+        }
+      ]
+    }
+  ],
+  "PropertyTypes": [],
+  "Udi": "umb://document-type/4f37d0e958414bc1b6e05f9f4f675eea",
+  "Dependencies": [
+    {
+      "Udi": "umb://data-type/4885450ea60f42bb984a43988baf5283",
+      "Ordering": true,
+      "Mode": 0
+    },
+    {
+      "Udi": "umb://document-type/67fc35c4df9341b6a0628f185c3afdfc",
+      "Ordering": true,
+      "Mode": 0
+    },
+    {
+      "Udi": "umb://document-type/73176b2ac8c4481093960ee6450372d1",
+      "Ordering": false,
+      "Mode": 0
+    },
+    {
+      "Udi": "umb://document-type/f534e235d215497496db21eedb1f47e3",
+      "Ordering": true,
+      "Mode": 0
+    },
+    {
+      "Udi": "umb://template/7ebc93703a6e4526b86a53dd568a0eea",
+      "Ordering": true,
+      "Mode": 0
+    }
+  ],
+  "Name": "People",
+  "Alias": "people",
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.ContentType.DocumentTypeArtifact",
+  "__version": "4.0.0-alpha10612"
+}

@@ -1,0 +1,12 @@
+{
+  "EditorAlias": "Umbraco.MultiNodeTreePicker",
+  "DatabaseType": 0,
+  "Configuration": {"startNode":null,"filter":"product","minNumber":0,"maxNumber":9,"showOpenButton":false,"ignoreUserStartNodes":false},
+  "Parent": null,
+  "Udi": "umb://data-type/d0382188119b49b786d384119a02645f",
+  "Dependencies": [],
+  "Name": "Products - Featured Products - Multinode Treepicker",
+  "Alias": null,
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.DataTypeArtifact",
+  "__version": "4.0.0-alpha10612"
+}

@@ -1,0 +1,12 @@
+{
+  "EditorAlias": "Umbraco.TinyMCE",
+  "DatabaseType": 0,
+  "Configuration": {"editor":{"toolbar":["undo","redo","styleselect","bold","italic","alignleft","aligncenter","alignright","bullist","numlist","outdent","indent","link"],"stylesheets":[],"maxImageSize":500,"mode":"classic","dimensions":{"height":500}},"hideLabel":false,"ignoreUserStartNodes":false,"mediaParentId":null},
+  "Parent": null,
+  "Udi": "umb://data-type/ecbbac0d974e490cb533fead926dc525",
+  "Dependencies": [],
+  "Name": "Contact - Contact Intro - Rich Text Editor",
+  "Alias": null,
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.DataTypeArtifact",
+  "__version": "4.0.0-alpha10612"
+}

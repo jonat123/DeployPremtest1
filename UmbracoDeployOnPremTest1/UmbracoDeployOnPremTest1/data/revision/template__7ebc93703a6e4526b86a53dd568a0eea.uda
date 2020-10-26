@@ -1,0 +1,21 @@
+{
+  "File": "umb://template-file/people.cshtml",
+  "Master": "umb://template/38777c4ff2514e379e2b1d4f2ff81969",
+  "Udi": "umb://template/7ebc93703a6e4526b86a53dd568a0eea",
+  "Dependencies": [
+    {
+      "Udi": "umb://template/38777c4ff2514e379e2b1d4f2ff81969",
+      "Ordering": true,
+      "Mode": 0
+    },
+    {
+      "Udi": "umb://template-file/people.cshtml",
+      "Ordering": true,
+      "Mode": 0
+    }
+  ],
+  "Name": "People",
+  "Alias": "people",
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.TemplateArtifact",
+  "__version": "4.0.0-alpha10612"
+}

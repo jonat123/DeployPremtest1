@@ -1,0 +1,12 @@
+{
+  "IsoCode": "en-US",
+  "Alias": "en-US",
+  "IsDefault": true,
+  "IsMandatory": false,
+  "FallbackLanguageIsoCode": null,
+  "Udi": "umb://language/en-US",
+  "Dependencies": [],
+  "Name": "English (United States)",
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.LanguageArtifact",
+  "__version": "4.0.0-alpha10612"
+}

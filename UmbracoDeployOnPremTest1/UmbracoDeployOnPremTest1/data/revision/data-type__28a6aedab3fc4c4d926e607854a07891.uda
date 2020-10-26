@@ -1,0 +1,12 @@
+{
+  "EditorAlias": "Umbraco.DropDown.Flexible",
+  "DatabaseType": 1,
+  "Configuration": {"multiple":false,"items":[{"id":1,"value":"€"},{"id":2,"value":"£"},{"id":3,"value":"$"},{"id":4,"value":"DKK"}]},
+  "Parent": null,
+  "Udi": "umb://data-type/28a6aedab3fc4c4d926e607854a07891",
+  "Dependencies": [],
+  "Name": "Products - Default Currency - Dropdown list",
+  "Alias": null,
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.DataTypeArtifact",
+  "__version": "4.0.0-alpha10612"
+}

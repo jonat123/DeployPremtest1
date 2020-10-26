@@ -1,0 +1,12 @@
+{
+  "EditorAlias": "Umbraco.Slider",
+  "DatabaseType": 1,
+  "Configuration": {"enableRange":false,"initVal1":0.0,"initVal2":0.0,"minVal":0.0,"maxVal":0.0,"step":0.0},
+  "Parent": null,
+  "Udi": "umb://data-type/9d5ba2c5ed7a41f8b4549fc65f48752e",
+  "Dependencies": [],
+  "Name": "Blog - How many posts should be shown - Slider",
+  "Alias": null,
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.DataTypeArtifact",
+  "__version": "4.0.0-alpha10612"
+}

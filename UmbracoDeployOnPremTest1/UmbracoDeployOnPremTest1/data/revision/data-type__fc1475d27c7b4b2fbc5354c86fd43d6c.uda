@@ -1,0 +1,12 @@
+{
+  "EditorAlias": "Our.Umbraco.OsmMaps",
+  "DatabaseType": 1,
+  "Configuration": {},
+  "Parent": null,
+  "Udi": "umb://data-type/fc1475d27c7b4b2fbc5354c86fd43d6c",
+  "Dependencies": [],
+  "Name": "Contact - Map Coordinates - Open street maps",
+  "Alias": null,
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.DataTypeArtifact",
+  "__version": "4.0.0-alpha10612"
+}

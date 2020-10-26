@@ -1,0 +1,12 @@
+{
+  "EditorAlias": "Umbraco.Grid",
+  "DatabaseType": 0,
+  "Configuration": {"items":{"styles":[],"config":[],"columns":12,"templates":[{"name":"1 column layout","sections":[{"grid":12,"allowAll":true}]}],"layouts":[{"label":"Article","name":"Article","areas":[{"grid":4},{"grid":8}]},{"name":"Three Columns","areas":[{"grid":4,"allowAll":true},{"grid":4,"allowAll":true},{"grid":4,"allowAll":true}]},{"name":"FullWidth","areas":[{"grid":12,"allowAll":true}]}]},"rte":{"toolbar":["code","bold","italic","styleselect","alignleft","aligncenter","alignright","bullist","numlist","outdent","indent","link","image","ace","redo","undo","strikethrough","table"],"stylesheets":[],"maxImageSize":500,"mode":"classic","dimensions":{"height":500}},"ignoreUserStartNodes":false,"mediaParentId":null},
+  "Parent": null,
+  "Udi": "umb://data-type/ea0ed4c1c48943b89058a70babf430ff",
+  "Dependencies": [],
+  "Name": "Content Base - Content - Grid layout",
+  "Alias": null,
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.DataTypeArtifact",
+  "__version": "4.0.0-alpha10612"
+}

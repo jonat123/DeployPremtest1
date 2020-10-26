@@ -1,0 +1,12 @@
+{
+  "EditorAlias": "Umbraco.Label",
+  "DatabaseType": 3,
+  "Configuration": {"umbracoDataValueType":"DATETIME"},
+  "Parent": null,
+  "Udi": "umb://data-type/0e9794ebf9b54f20a78893acd233a7e4",
+  "Dependencies": [],
+  "Name": "Label (datetime)",
+  "Alias": null,
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.DataTypeArtifact",
+  "__version": "4.0.0-alpha10612"
+}

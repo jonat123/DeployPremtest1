@@ -1,0 +1,12 @@
+{
+  "EditorAlias": "Umbraco.Tags",
+  "DatabaseType": 1,
+  "Configuration": {"group":"default","storageType":1,"Delimiter":"\u0000"},
+  "Parent": null,
+  "Udi": "umb://data-type/30c3522191b049a5a59942d1965161ea",
+  "Dependencies": [],
+  "Name": "Navigation Base - Keywords - Tags",
+  "Alias": null,
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.DataTypeArtifact",
+  "__version": "4.0.0-alpha10612"
+}

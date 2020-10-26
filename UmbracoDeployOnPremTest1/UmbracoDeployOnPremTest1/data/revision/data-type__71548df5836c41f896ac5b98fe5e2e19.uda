@@ -1,0 +1,12 @@
+{
+  "EditorAlias": "Umbraco.RadioButtonList",
+  "DatabaseType": 1,
+  "Configuration": {"items":[{"id":1,"value":"water"},{"id":2,"value":"earth"},{"id":3,"value":"sun"}]},
+  "Parent": null,
+  "Udi": "umb://data-type/71548df5836c41f896ac5b98fe5e2e19",
+  "Dependencies": [],
+  "Name": "Home - Color Theme - Radio button list",
+  "Alias": null,
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.DataTypeArtifact",
+  "__version": "4.0.0-alpha10612"
+}

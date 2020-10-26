@@ -1,0 +1,12 @@
+{
+  "EditorAlias": "Umbraco.NestedContent",
+  "DatabaseType": 0,
+  "Configuration": {"contentTypes":[{"ncAlias":"feature","ncTabAlias":"Feature","nameTemplate":"{{featureName}}"}],"minItems":0,"maxItems":0,"confirmDeletes":true,"showIcons":true,"hideLabel":false},
+  "Parent": null,
+  "Udi": "umb://data-type/84bbeb67df7e40438db855df52d01456",
+  "Dependencies": [],
+  "Name": "Product - Features - Nested Content",
+  "Alias": null,
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.DataTypeArtifact",
+  "__version": "4.0.0-alpha10612"
+}

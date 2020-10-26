@@ -1,0 +1,116 @@
+{
+  "DefaultTemplate": "umb://template/0be5b7640ac7481d9233bc77cc0f3bce",
+  "AllowedTemplates": [
+    "umb://template/0be5b7640ac7481d9233bc77cc0f3bce"
+  ],
+  "Icon": "icon-calendar color-black",
+  "Thumbnail": "folder.png",
+  "Description": null,
+  "IsContainer": false,
+  "Permissions": {
+    "AllowVaryingByCulture": false,
+    "AllowVaryingBySegment": false,
+    "AllowedAtRoot": false,
+    "IsElementType": false,
+    "AllowedChildContentTypes": []
+  },
+  "Parent": null,
+  "CompositionContentTypes": [
+    "umb://document-type/67fc35c4df9341b6a0628f185c3afdfc"
+  ],
+  "PropertyGroups": [
+    {
+      "Key": "57dddb11-b7d4-46bf-a207-ad7b4e0f292f",
+      "Name": "Content",
+      "SortOrder": 0,
+      "PropertyTypes": [
+        {
+          "Key": "6f486b84-05b9-46dc-a7a3-8e1c2e1a1a90",
+          "Alias": "bodyText",
+          "DataType": "umb://data-type/ea0ed4c1c48943b89058a70babf430ff",
+          "Description": null,
+          "Mandatory": false,
+          "Name": "Content",
+          "SortOrder": 3,
+          "Validation": null,
+          "VariesByCulture": false,
+          "VariesBySegment": false
+        },
+        {
+          "Key": "848e53a8-bc9a-439c-989a-f6cb00369c40",
+          "Alias": "pageTitle",
+          "DataType": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+          "Description": "The title of the page, this is also the first text in a google search result. The ideal length is between 40 and 60 characters",
+          "Mandatory": true,
+          "Name": "Page Title",
+          "SortOrder": 0,
+          "Validation": null,
+          "VariesByCulture": false,
+          "VariesBySegment": false
+        },
+        {
+          "Key": "d4c85620-9c49-4de1-b0f0-7619cd5a9056",
+          "Alias": "categories",
+          "DataType": "umb://data-type/30c3522191b049a5a59942d1965161ea",
+          "Description": null,
+          "Mandatory": false,
+          "Name": "Categories (tags)",
+          "SortOrder": 1,
+          "Validation": null,
+          "VariesByCulture": false,
+          "VariesBySegment": false
+        },
+        {
+          "Key": "d8de9ef2-e0a4-4cdc-8e5e-1bb60e10e8d0",
+          "Alias": "excerpt",
+          "DataType": "umb://data-type/c6bac0dd4ab945b18e30e4b619ee5da3",
+          "Description": "Introduction to your blog post. This is also used in the summaries on the front of the blog as well as the homepage",
+          "Mandatory": true,
+          "Name": "Excerpt",
+          "SortOrder": 2,
+          "Validation": null,
+          "VariesByCulture": false,
+          "VariesBySegment": false
+        }
+      ]
+    }
+  ],
+  "PropertyTypes": [],
+  "Udi": "umb://document-type/1c1ccd49e94f4af7aa4b2ece09777c9b",
+  "Dependencies": [
+    {
+      "Udi": "umb://data-type/0cc0eba1996042c9bf9b60e150b429ae",
+      "Ordering": true,
+      "Mode": 0
+    },
+    {
+      "Udi": "umb://data-type/30c3522191b049a5a59942d1965161ea",
+      "Ordering": true,
+      "Mode": 0
+    },
+    {
+      "Udi": "umb://data-type/c6bac0dd4ab945b18e30e4b619ee5da3",
+      "Ordering": true,
+      "Mode": 0
+    },
+    {
+      "Udi": "umb://data-type/ea0ed4c1c48943b89058a70babf430ff",
+      "Ordering": true,
+      "Mode": 0
+    },
+    {
+      "Udi": "umb://document-type/67fc35c4df9341b6a0628f185c3afdfc",
+      "Ordering": true,
+      "Mode": 0
+    },
+    {
+      "Udi": "umb://template/0be5b7640ac7481d9233bc77cc0f3bce",
+      "Ordering": true,
+      "Mode": 0
+    }
+  ],
+  "Name": "Blogpost",
+  "Alias": "blogpost",
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.ContentType.DocumentTypeArtifact",
+  "__version": "4.0.0-alpha10612"
+}

@@ -1,0 +1,12 @@
+{
+  "EditorAlias": "Umbraco.MultiNodeTreePicker",
+  "DatabaseType": 0,
+  "Configuration": {"startNode":null,"filter":"person","minNumber":0,"maxNumber":0,"showOpenButton":false,"ignoreUserStartNodes":false},
+  "Parent": null,
+  "Udi": "umb://data-type/4885450ea60f42bb984a43988baf5283",
+  "Dependencies": [],
+  "Name": "People - Featured People - Multinode Treepicker",
+  "Alias": null,
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.DataTypeArtifact",
+  "__version": "4.0.0-alpha10612"
+}

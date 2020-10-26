@@ -1,0 +1,12 @@
+{
+  "EditorAlias": "Umbraco.UploadField",
+  "DatabaseType": 1,
+  "Configuration": {},
+  "Parent": null,
+  "Udi": "umb://data-type/84c6b44131df4ffeb67e67d5bc3ae65a",
+  "Dependencies": [],
+  "Name": "Upload",
+  "Alias": null,
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.DataTypeArtifact",
+  "__version": "4.0.0-alpha10612"
+}

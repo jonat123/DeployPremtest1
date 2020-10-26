@@ -1,0 +1,18 @@
+{
+  "EditorAlias": "Umbraco.ContentPicker",
+  "DatabaseType": 1,
+  "Configuration": {"showOpenButton":false,"startNodeId":"umb://document/ca4249ed2b234337b52263cabe5587d1","ignoreUserStartNodes":false},
+  "Parent": null,
+  "Udi": "umb://data-type/3ece86aa61ad45d5b1dd8f02f25df949",
+  "Dependencies": [
+    {
+      "Udi": "umb://document/ca4249ed2b234337b52263cabe5587d1",
+      "Ordering": false,
+      "Mode": 1
+    }
+  ],
+  "Name": "Home - Call To Action Link - Content Picker",
+  "Alias": null,
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.DataTypeArtifact",
+  "__version": "4.0.0-alpha10612"
+}

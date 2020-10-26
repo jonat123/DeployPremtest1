@@ -1,0 +1,12 @@
+{
+  "EditorAlias": "Umbraco.Tags",
+  "DatabaseType": 1,
+  "Configuration": {"group":"default","storageType":1,"Delimiter":"\u0000"},
+  "Parent": null,
+  "Udi": "umb://data-type/9d0726e65fa744558fe6ed5bf9057cc4",
+  "Dependencies": [],
+  "Name": "Blogpost - Categories - Tags",
+  "Alias": null,
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.DataTypeArtifact",
+  "__version": "4.0.0-alpha10612"
+}

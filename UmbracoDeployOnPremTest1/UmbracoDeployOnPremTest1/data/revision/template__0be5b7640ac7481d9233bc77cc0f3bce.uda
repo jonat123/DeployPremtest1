@@ -1,0 +1,21 @@
+{
+  "File": "umb://template-file/Blogpost.cshtml",
+  "Master": "umb://template/38777c4ff2514e379e2b1d4f2ff81969",
+  "Udi": "umb://template/0be5b7640ac7481d9233bc77cc0f3bce",
+  "Dependencies": [
+    {
+      "Udi": "umb://template/38777c4ff2514e379e2b1d4f2ff81969",
+      "Ordering": true,
+      "Mode": 0
+    },
+    {
+      "Udi": "umb://template-file/Blogpost.cshtml",
+      "Ordering": true,
+      "Mode": 0
+    }
+  ],
+  "Name": "Blogpost",
+  "Alias": "Blogpost",
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.TemplateArtifact",
+  "__version": "4.0.0-alpha10612"
+}

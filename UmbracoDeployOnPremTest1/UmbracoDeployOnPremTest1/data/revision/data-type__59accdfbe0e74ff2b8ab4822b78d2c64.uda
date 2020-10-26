@@ -1,0 +1,12 @@
+{
+  "EditorAlias": "Umbraco.Label",
+  "DatabaseType": 1,
+  "Configuration": {"umbracoDataValueType":"STRING"},
+  "Parent": null,
+  "Udi": "umb://data-type/59accdfbe0e74ff2b8ab4822b78d2c64",
+  "Dependencies": [],
+  "Name": "Contact - Pick a Contact Form - Form Picker",
+  "Alias": null,
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.DataTypeArtifact",
+  "__version": "4.0.0-alpha10612"
+}

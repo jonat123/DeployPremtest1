@@ -1,0 +1,12 @@
+{
+  "EditorAlias": "Umbraco.Label",
+  "DatabaseType": 1,
+  "Configuration": {"umbracoDataValueType":"STRING"},
+  "Parent": null,
+  "Udi": "umb://data-type/f0bc4bfbb49940d6ba86058885a5178c",
+  "Dependencies": [],
+  "Name": "Label (string)",
+  "Alias": null,
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.DataTypeArtifact",
+  "__version": "4.0.0-alpha10612"
+}

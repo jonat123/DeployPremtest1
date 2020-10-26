@@ -1,0 +1,12 @@
+{
+  "EditorAlias": "Umbraco.MediaPicker",
+  "DatabaseType": 0,
+  "Configuration": {"multiPicker":false,"onlyImages":true,"disableFolderSelect":true,"startNodeId":"umb://media/1fd2ecaff3714c009306867fa4585e7a","ignoreUserStartNodes":false},
+  "Parent": null,
+  "Udi": "umb://data-type/e26a8d91a9d7475bbc3b2a09f4743754",
+  "Dependencies": [],
+  "Name": "Person - Photo - Media Picker",
+  "Alias": null,
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.DataTypeArtifact",
+  "__version": "4.0.0-alpha10612"
+}

@@ -1,0 +1,12 @@
+{
+  "EditorAlias": "Umbraco.Decimal",
+  "DatabaseType": 4,
+  "Configuration": {},
+  "Parent": null,
+  "Udi": "umb://data-type/3f6619b608a44be78d6a2761844ee567",
+  "Dependencies": [],
+  "Name": "Product - Price - Decimal",
+  "Alias": null,
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.DataTypeArtifact",
+  "__version": "4.0.0-alpha10612"
+}

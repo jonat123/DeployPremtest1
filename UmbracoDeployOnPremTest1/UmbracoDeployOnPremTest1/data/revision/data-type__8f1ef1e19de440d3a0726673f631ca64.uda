@@ -1,0 +1,12 @@
+{
+  "EditorAlias": "Umbraco.Label",
+  "DatabaseType": 4,
+  "Configuration": {"umbracoDataValueType":"DECIMAL"},
+  "Parent": null,
+  "Udi": "umb://data-type/8f1ef1e19de440d3a0726673f631ca64",
+  "Dependencies": [],
+  "Name": "Label (decimal)",
+  "Alias": null,
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.DataTypeArtifact",
+  "__version": "4.0.0-alpha10612"
+}
